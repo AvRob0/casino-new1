@@ -1,0 +1,26 @@
+*{
+    
+    text-align: center;
+    text-justify: auto;
+}
+#SimpleCraps{
+
+    size: 20px;
+}
+
+
+
+body {
+    background-color: slateblue;
+    background-attachment: fixed;
+    
+}
+
+.playButton {
+    width: 150px;
+    height: 25px;
+    border-style: hidden;
+    border-radius: 3px;
+    border-color: black;
+    
+}
